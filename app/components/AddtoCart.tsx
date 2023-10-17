@@ -7,7 +7,7 @@ const AddtoCart = () => {
   };
   return (
     <div>
-      <button onClick={handleButton}>Add to Cart</button>
+      <button className="btn btn-accent" onClick={handleButton}>Add to Cart</button>
     </div>
   );
 };
