@@ -40,7 +40,5 @@ const Navbar = () => {
 
 export default Navbar;
 
-
 // `${
 //   link.href === currentPath ? 'text-zinc-300' : 'text-zinc-600'
-
